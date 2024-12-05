@@ -2,8 +2,8 @@
 
 // Definicje nut dla melodii "Sleigh Ride"
 int melody[] = {
-  NOTE_A4, NOTE_A4, NOTE_A4, NOTE_A4, NOTE_B4, NOTE_A4, NOTE_FS4,
-  NOTE_D4, NOTE_E4, NOTE_FS4, NOTE_E4, NOTE_CS4, NOTE_B3, NOTE_A3
+  NOTE_A4, NOTE_A4, NOTE_A4, NOTE_A4, NOTE_A4, NOTE_A4, NOTE_A4,
+  NOTE_A4, NOTE_A4, NOTE_A4, NOTE_A4, NOTE_A4, NOTE_A3, NOTE_A3
 };
 
 int noteDurations[] = {
